@@ -1,5 +1,6 @@
 {
   "name": "No Prereqs",
+  "theme": "mint",
   "colors": {
     "primary": "#1a1a2e",
     "light": "#4a4a8a",
