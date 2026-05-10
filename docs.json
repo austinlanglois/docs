@@ -13,60 +13,29 @@
         "groups": [
           {
             "group": "Start here",
-            "pages": [
-              "full-stack-leader/introduction",
-              "full-stack-leader/how-to-use"
-            ]
+            "pages": ["full-stack-leader/introduction","full-stack-leader/how-to-use"]
           },
           {
             "group": "Part 1: Steel",
-            "pages": [
-              "full-stack-leader/steel/strategy",
-              "full-stack-leader/steel/financials",
-              "full-stack-leader/steel/marketing",
-              "full-stack-leader/steel/operations",
-              "full-stack-leader/steel/communication"
-            ]
+            "pages": ["full-stack-leader/steel/strategy","full-stack-leader/steel/financials","full-stack-leader/steel/marketing","full-stack-leader/steel/operations","full-stack-leader/steel/communication"]
           },
           {
             "group": "Part 2: Signal",
-            "pages": [
-              "full-stack-leader/signal/ai-strategy",
-              "full-stack-leader/signal/innovation",
-              "full-stack-leader/signal/decision-science",
-              "full-stack-leader/signal/analytics",
-              "full-stack-leader/signal/blockchain"
-            ]
+            "pages": ["full-stack-leader/signal/ai-strategy","full-stack-leader/signal/innovation","full-stack-leader/signal/decision-science","full-stack-leader/signal/analytics","full-stack-leader/signal/blockchain"]
           },
           {
             "group": "Part 3: Soul",
-            "pages": [
-              "full-stack-leader/Soul/change-management",
-              "full-stack-leader/Soul/power-networks",
-              "full-stack-leader/Soul/cross-cultural",
-              "full-stack-leader/Soul/talent-teams"
-            ]
+            "pages": ["full-stack-leader/soul/change-management","full-stack-leader/soul/power-networks","full-stack-leader/soul/cross-cultural","full-stack-leader/soul/talent-teams"]
           },
           {
             "group": "Leadership thread",
-            "pages": [
-              "full-stack-leader/leadership-thread/self-assessment",
-              "full-stack-leader/leadership-thread/negotiation",
-              "full-stack-leader/leadership-thread/authentic-leadership"
-            ]
+            "pages": ["full-stack-leader/leadership-thread/self-assessment","full-stack-leader/leadership-thread/negotiation","full-stack-leader/leadership-thread/authentic-leadership"]
           }
         ]
       },
       {
         "tab": "PR Playbook",
-        "groups": [
-          {
-            "group": "Coming soon",
-            "pages": [
-              "pr-playbook/introduction"
-            ]
-          }
-        ]
+        "groups": [{"group": "Coming soon","pages": ["pr-playbook/introduction"]}]
       }
     ]
   }
