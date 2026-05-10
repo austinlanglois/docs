@@ -1,126 +1,72 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mintlify Starter Kit",
+  "name": "No Prereqs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1a1a2e",
+    "light": "#4a4a8a",
+    "dark": "#0f0f1a"
   },
-  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Full Stack Leader",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Start here",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "full-stack-leader/introduction",
+              "full-stack-leader/how-to-use"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Part 1: Engine",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "full-stack-leader/engine/strategy",
+              "full-stack-leader/engine/financials",
+              "full-stack-leader/engine/marketing",
+              "full-stack-leader/engine/operations",
+              "full-stack-leader/engine/communication"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Part 2: Signal",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/components",
-              "essentials/reusable-snippets"
+              "full-stack-leader/signal/ai-strategy",
+              "full-stack-leader/signal/innovation",
+              "full-stack-leader/signal/decision-science",
+              "full-stack-leader/signal/analytics",
+              "full-stack-leader/signal/blockchain"
             ]
           },
           {
-            "group": "Agent ready",
+            "group": "Part 3: People",
             "pages": [
-              "agent-ready/prompt",
-              "agent-ready/visibility",
-              "agent-ready/contextual",
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "full-stack-leader/people/change-management",
+              "full-stack-leader/people/power-networks",
+              "full-stack-leader/people/cross-cultural",
+              "full-stack-leader/people/talent-teams"
+            ]
+          },
+          {
+            "group": "Leadership thread",
+            "pages": [
+              "full-stack-leader/leadership-thread/self-assessment",
+              "full-stack-leader/leadership-thread/negotiation",
+              "full-stack-leader/leadership-thread/authentic-leadership"
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "PR Playbook",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Coming soon",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "pr-playbook/introduction"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+    ]
   }
 }
