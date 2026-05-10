@@ -18,13 +18,13 @@
             ]
           },
           {
-            "group": "Part 1: Engine",
+            "group": "Part 1: Steel",
             "pages": [
-              "full-stack-leader/engine/strategy",
-              "full-stack-leader/engine/financials",
-              "full-stack-leader/engine/marketing",
-              "full-stack-leader/engine/operations",
-              "full-stack-leader/engine/communication"
+              "full-stack-leader/steel/strategy",
+              "full-stack-leader/steel/financials",
+              "full-stack-leader/steel/marketing",
+              "full-stack-leader/steel/operations",
+              "full-stack-leader/steel/communication"
             ]
           },
           {
@@ -38,12 +38,12 @@
             ]
           },
           {
-            "group": "Part 3: People",
+            "group": "Part 3: Soul",
             "pages": [
-              "full-stack-leader/people/change-management",
-              "full-stack-leader/people/power-networks",
-              "full-stack-leader/people/cross-cultural",
-              "full-stack-leader/people/talent-teams"
+              "full-stack-leader/Soul/change-management",
+              "full-stack-leader/Soul/power-networks",
+              "full-stack-leader/Soul/cross-cultural",
+              "full-stack-leader/Soul/talent-teams"
             ]
           },
           {
