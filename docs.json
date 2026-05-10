@@ -2,9 +2,9 @@
   "name": "No Prereqs",
   "theme": "mint",
   "colors": {
-    "primary": "#1a1a2e",
-    "light": "#4a4a8a",
-    "dark": "#0f0f1a"
+    "primary": "#18181b",
+    "light": "#52525b",
+    "dark": "#09090b"
   },
   "navigation": {
     "tabs": [
